@@ -1,5 +1,5 @@
 # CloudShop
 
-RMIT University\n
-Cloud Computing Assignment\n
+RMIT University<br/>
+Cloud Computing Assignment<br/>
 CloudShop Project
